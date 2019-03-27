@@ -1,92 +1,92 @@
 .main-heading {
-	background-color: black;
-	color: white;
-	font-family: 'Exo', sans-serif;
-	font-size: 140px;
-	font-style: italic;
-	opacity: 0.8;
-	text-align: center;
-	word-spacing: 20px;
+  background-color: black;
+  color: white;
+  font-family: 'Exo', sans-serif;
+  font-size: 140px;
+  font-style: italic;
+  opacity: 0.8;
+  text-align: center;
+  word-spacing: 20px;
 }
 
 .off-main {
-	color: white;
-	font-family: 'Exo', sans-serif;
-	font-size: 10px;
-	font-style: italic;
-	opacity: 0.8;
-	position: relative;
-	bottom: 120px;
-	left: 20px;
-	text-align: center;
-	letter-spacing: 8px;
+  color: white;
+  font-family: 'Exo', sans-serif;
+  font-size: 10px;
+  font-style: italic;
+  opacity: 0.8;
+  position: relative;
+  bottom: 120px;
+  left: 20px;
+  text-align: center;
+  letter-spacing: 8px;
 }
 
 .second-heading {
-	color: black;
-	font-family: 'Exo', sans-serif;
-	font-size: 20px;
-	position: relative;
-	bottom: 60px;
-	text-align: center;
+  color: black;
+  font-family: 'Exo', sans-serif;
+  font-size: 20px;
+  position: relative;
+  bottom: 60px;
+  text-align: center;
 }
 
 .navigation {
-	font-family: 'Exo', sans-serif;
-	font-size: 15px;
-	position: relative;
-	bottom: 30px;
-	text-align: center;
-	word-spacing: 10px;
+  font-family: 'Exo', sans-serif;
+  font-size: 15px;
+  position: relative;
+  bottom: 30px;
+  text-align: center;
+  word-spacing: 10px;
 }
 
 .image {
-	width: 450px;
-	position: relative;
-	left: 5%;
+  width: 450px;
+  position: relative;
+  left: 5%;
 }
 
 .bulk-text {
-	color: black;
-	font-family: 'Exo', sans-serif;
-	font-size: 15px;
-	text-align: justify;
-	padding-right: 50px;
-	padding-left: 50px;
+  color: black;
+  font-family: 'Exo', sans-serif;
+  font-size: 15px;
+  text-align: justify;
+  padding-right: 50px;
+  padding-left: 50px;
 }
 
 .form {
-	color: black;
-	font-family: 'Exo', sans-serif;
-	text-align: center;
+  color: black;
+  font-family: 'Exo', sans-serif;
+  text-align: center;
 }
 
 .instagram {
-	color: black;
-	font-family: 'Exo', sans-serif;
-	font-size: 13px;
-	text-align: center;
+  color: black;
+  font-family: 'Exo', sans-serif;
+  font-size: 13px;
+  text-align: center;
 }
 
 .thanks {
-	color: black;
-	font-family: 'Exo', sans-serif;
-	font-size: 13px;
-	text-align: center;
+  color: black;
+  font-family: 'Exo', sans-serif;
+  font-size: 13px;
+  text-align: center;
 }
 
 .black-background {
-	background-color: black;
-	opacity: 0.8;
+  background-color: black;
+  opacity: 0.8;
 }
 
 .white-background {
-	background-color: floralwhite;
+  background-color: floralwhite;
 }
 
 .video-one {
-	height: 305px;
-	width: 450px;
-	position: relative;
-	left: 5%;
+  height: 305px;
+  width: 450px;
+  position: relative;
+  left: 5%;
 }
