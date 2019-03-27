@@ -5,4 +5,4 @@ A draft of a portfolio website aimed for a photographer, production company, cre
 I created this project to practice using HTML and CSS whilst working through Codecademy and Freecodecamp lessons, prior to applying for Makers Academy boot-camp. 
 
 Editor - *Sublime Text*
-		 *Open in browser*
+View - *Open in browser*
